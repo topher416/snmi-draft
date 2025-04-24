@@ -13,7 +13,7 @@
 
 ### Footer
 - SNMI
-- Safety Net Modernization Initiative
+- Safety Net Moonshot Initiative
 
 #### Resources
 - Our Papers
@@ -31,232 +31,155 @@
 - Terms of Use
 - Accessibility
 
-- © 2025 Safety Net Modernization Initiative. All rights reserved.
+- © 2025 Safety Net Moonshot Initiative. All rights reserved.
 
 ## HOMEPAGE
 
 ### Hero Section
-- Building a Vibrant Chicago Through a Safety Net Transformation
-- A Call to Action for the City's Most Pressing Healthcare Crisis
-- See the Plan
+- Building a Vibrant Chicago Through Safety Net Transformation
+- A Strategic Response to the City’s Most Urgent Healthcare Crisis
+- Read the Strategy
 
 ### Infographic Story
 
 #### Left Panel: Crisis Forecast
-- The Challenge and The Path Forward
-- Chicago's Safety Net is Breaking
-- $1.4B+ in liability risk
-- Without immediate intervention, Chicago's healthcare safety net faces imminent collapse, leaving vulnerable communities without essential medical services and creating a public health crisis of unprecedented scale.
+- The Challenge: A Collapsing Safety Net
+- $1.4B+ in unfunded liabilities
+- Hospital closures and service gaps endanger care access in vulnerable communities
+- Without intervention, Chicago faces a public health emergency of unprecedented scale
 
 #### Right Panel: Strategic Path Forward
-- A Moonshot for Redesign
-- Coalition Building
-- APM Reform
-- Hospital Repatriation
-- "This initiative represents our best chance to transform Chicago's healthcare landscape into an equitable system that truly serves all communities." — Healthcare Leader
-- Our comprehensive redesign plan brings together stakeholders from across the healthcare ecosystem to implement sustainable solutions that address both immediate needs and long-term structural challenges.
+- A Moonshot for System Redesign
+- FQHC-Led Access Network
+- Value-Based Payment Reform
+- Hospital Infrastructure Reconfiguration
+- “This initiative is not about preserving the status quo. It’s about designing a new foundation for care access in Chicago.” — SNMI Advisory Group Member
+- Our plan mobilizes state, provider, and community partners to build a sustainable, equitable delivery model
 
 ### Preview Cards
 - Explore Our Work
 
 #### Our Papers
 - 📄 Our Papers
-- Read our comprehensive research and proposals
-- Download our two-volume analysis of Chicago's safety net crisis and our detailed plan for transformation.
+- Dive into the data and strategic vision
+- Read our two-volume series: a crisis diagnosis and blueprint for redesign
 - View Papers
 
 #### Community Voices
 - 📷 Community Voices
-- See the human impact through PhotoVoice
-- Explore stories and images from community members affected by Chicago's healthcare challenges.
+- PhotoVoice as evidence, not anecdote
+- Community members share stories illustrating the human stakes of systemic failure
 - View Gallery
 
 #### Leader Stories
-- 🎥 Leader Stories
-- Hear from key stakeholders and experts
-- Watch video testimonials from healthcare leaders committed to transforming Chicago's safety net.
+- 🎥 Advisory Voices
+- Hear from safety net champions
+- Stakeholders across sectors describe why SNMI matters
 - Watch Videos
 
-#### What's Next
-- 🔄 What's Next
-- Learn about our ongoing initiatives
-- Discover how the Safety Net Modernization Initiative is working to implement change.
+#### What’s Next
+- 🔄 What’s Next
+- From paper to practice
+- Learn how the initiative is advancing redesign through engagement and implementation
 - About SNMI
 
 ## OUR PAPERS PAGE
 
 ### Header
 - Our Papers
-- Comprehensive research and actionable proposals to address Chicago's safety net healthcare crisis
+- The Data-Driven Case for Redesigning Chicago’s Safety Net
 
 ### Volume One
 - Volume One
 - The Imminent Collapse
-- This report documents the critical state of Chicago's safety net healthcare system, highlighting the $1.4B+ liability risk and the timeline to potential insolvency. Through data analysis and stakeholder interviews, we present a comprehensive picture of the challenges facing our city's most vulnerable communities.
+- A detailed analysis of Chicago’s safety net instability, projecting insolvency risk, care gaps, and the fiscal cliff facing core institutions
 - Download PDF
 
 ### Volume Two
 - Volume Two
 - A Moonshot Redesign Plan
-- Building on our analysis of the crisis, this report outlines a bold, comprehensive plan to transform Chicago's safety net healthcare system. We present actionable strategies for coalition building, payment reform, and hospital repatriation that together create a sustainable path forward.
+- This volume proposes a 12-action transformation agenda including network redesign, care access realignment, and capital strategy
 - Download PDF
 
 ### How Our Research Connects
 - How Our Research Connects
-- Our two-volume approach first establishes the urgent nature of the crisis, then provides a detailed blueprint for transformation. Together, these papers offer both the "why" and the "how" of safety net modernization in Chicago.
+- Volume One establishes urgency; Volume Two offers a strategic solution. Together, they form the backbone of SNMI’s proposal to Chicago.
 
 ### Advisory Group Perspectives
 - Advisory Group Perspectives
-- "These papers represent a watershed moment for healthcare in Chicago. They not only diagnose the problem with unprecedented clarity but offer a viable path forward that respects the needs of all stakeholders." — Healthcare Executive
-- "What makes this initiative different is its comprehensive approach. Rather than addressing symptoms, it tackles root causes and brings together voices that have historically been siloed." — Community Health Advocate
-- "The financial analysis in Volume One is sobering, but the innovation framework in Volume Two gives me hope. This is the roadmap Chicago has been waiting for." — Policy Expert
+- “This is the first time we’ve seen the full economic picture and a viable model for fixing it.” — FQHC Leader
+- “The system redesign is bold, but necessary. We can’t afford another decade of drift.” — Health System Executive
+- “Volume Two is a roadmap. It’s about accountability, feasibility, and urgency.” — Policy Advisor
 
 ## COMMUNITY VOICES PAGE
 
 ### Header
 - Community Voices
-- Through PhotoVoice, community members share their experiences with Chicago's healthcare system
+- Community Members Illustrate the Crisis Through PhotoVoice
 
 ### PhotoVoice Gallery
-- Maria, Pilsen
-- "The closed clinic where I used to get my diabetes medication."
-- "I've lived in Pilsen for 30 years. When this clinic closed last year, I had to travel an hour by bus to get my medication. Many of my neighbors simply stopped getting care."
+- Lucia, Little Village
+- "The closed clinic where I used to get my insulin."
+- "After it shut down, I went weeks without meds. I ended up in the ER. I see neighbors in the same situation."
 
 - James, Englewood
-- "My daughter's asthma medication costs three times what it did last year."
-- "Without our local safety net hospital, we're forced to use emergency rooms for basic care. The costs are overwhelming for our family."
+- "My daughter’s asthma meds cost triple now."
+- "I used to walk five blocks to our doctor. That clinic's gone. Now we drive 40 minutes and wait hours."
 
-- Darnell, Austin
-- "The community garden we started after our health center closed."
-- "When we lost access to nutritional counseling, our community came together to grow our own food and support each other. It helps, but it's not enough."
+- Gloria, Auburn Gresham
+- "ER is now our only care."
+- "The urgent care closed. My grandson had strep and we waited 9 hours in an ER to get antibiotics."
 
-- Lucia, Little Village
-- "My grandmother waiting for the bus to her new doctor."
-- "She's 82 and now has to travel 90 minutes each way for her appointments. The strain of this journey often means she cancels necessary check-ups."
-
-- Robert, Bronzeville
-- "The empty building that used to be our mental health clinic."
-- "Since this clinic closed, I've watched friends struggle without access to the counseling and medication they need. Our community feels abandoned."
-
-- Aisha, South Shore
-- "My son's inhaler that we ration because we can't afford refills."
-- "Without insurance coverage, we have to make impossible choices between medication and other necessities. No parent should have to decide if their child can breathe."
-
-- Carlos, Humboldt Park
-- "The community health fair we organized to fill the gap."
-- "We bring together volunteer doctors and nurses once a month, but it's a band-aid on a gaping wound. Our community needs consistent, accessible healthcare."
-
-- Tanisha, North Lawndale
-- "My prescription that I can no longer afford to fill."
-- "I've been cutting my blood pressure pills in half to make them last longer. I know it's dangerous, but I don't have a choice after losing my local pharmacy."
-
-### Footer Text
-- These stories represent just a small sample of the experiences shared by Chicago residents affected by our healthcare safety net crisis.
-- Learn more about our community engagement
+### PhotoVoice Context
+- This isn’t just storytelling. This is a data-informed methodology used to ground SNMI’s strategy in lived experience. PhotoVoice is central to stakeholder briefings and public communication.
 
 ## ADVISORY VOICES PAGE
 
 ### Header
 - Advisory Voices
-- Hear from healthcare leaders and stakeholders committed to transforming Chicago's safety net
+- Stakeholders Explain Why the Safety Net Must Be Transformed
 
-### Video Testimonials
-- Dr. Sarah Johnson, Community Health Alliance
-- "We need to reimagine how care is delivered in underserved communities"
-- 4:15
+### Video Gallery
+- Brenda Battle, UChicago Medicine
+- “We can no longer pretend the system is serving the people who need it most. We need to redesign it, now.”
 
-- Marcus Williams, South Side Health Coalition
-- "The current system is failing those who need it most"
-- 3:42
+- Dr. James Brooks, Lawndale Christian Health Center
+- “This isn’t a theoretical problem. Our health centers are stretched to the breaking point. SNMI offers a concrete, shared response.”
 
-- Dr. Elena Rodriguez, Urban Healthcare Initiative
-- "Collaboration is the key to sustainable solutions"
-- 5:08
+- Megan Woltman, Advocate Aurora
+- “The question isn’t whether change is needed—it’s how we move with urgency and structure. That’s what SNMI provides.”
 
-- James Thompson, Healthcare Policy Institute
-- "We have a once-in-a-generation opportunity for change"
-- 3:27
-
-- Dr. Michael Chen, Integrated Care Network
-- "Technology can help bridge gaps in our safety net"
-- 4:51
-
-- Sophia Washington, Patient Advocacy Coalition
-- "We must center patient voices in system redesign"
-- 3:35
-
-### Video Dialog Content
-- About this interview:
-- In this video, [Name] discusses the critical challenges facing Chicago's healthcare safety net and shares insights on potential solutions based on their experience at [Organization].
-
-### Footer Text
-- These videos represent perspectives from across Chicago's healthcare ecosystem, including providers, policy experts, community advocates, and healthcare administrators.
-- Learn more about our advisory group
+### Purpose of Advisory Voices
+- These videos aren’t testimonials—they’re commitments. Advisory Group members bring policy, operational, and financial expertise to a coordinated redesign effort.
 
 ## TOOLS & RESOURCES PAGE
 
 ### Header
 - Tools & Resources
-- Practical resources to support the implementation of safety net modernization
+- Strategic Artifacts to Support Understanding and Engagement
 
-### Coming Soon Banner
-- Coming Soon
-- This section is currently under development and will be available in a future update. These resources are for internal use only until they are ready for public release.
-- Internal Preview Only
+### Featured Downloads
+- SNMI Charter and Timeline
+- Community Engagement Materials
+- FQHC Financial Impact Summary
+- Hospital Capital Needs Analysis
+- Upcoming Briefing Slide Decks
 
-### Preview of Future Content
-- Infographics
-- Visual data representations
-- Shareable visualizations of key data points and trends related to Chicago's safety net.
-- Coming Soon
-
-- Slide Decks
-- Presentation materials
-- Ready-to-use presentation materials for stakeholder meetings and community engagement.
-- Coming Soon
-
-- Messaging One-Pagers
-- Communication tools
-- Concise, targeted messaging documents for different audiences and stakeholders.
-- Coming Soon
-
-- Press Packets
-- Media resources
-- Comprehensive media kits with background information, key facts, and contact details.
-- Coming Soon
-
-### Footer Text
-- If you're a partner organization and need access to these resources before public release, please contact the SNMI team directly.
+### Interactive Tools
+- Safety Net Scenario Planner (coming soon)
+- Stakeholder Mapping Module (private access only)
 
 ## ABOUT PAGE
 
 ### Header
 - About the Initiative
-- A collaborative effort to redesign Chicago's healthcare safety net
-
-### Our Mission
-- Our Mission
-- The Safety Net Modernization Initiative (SNMI) is a collaborative redesign effort led by providers, funders, and strategists committed to transforming Chicago's healthcare landscape. We bring together diverse stakeholders to address the imminent crisis facing our safety net hospitals and clinics, with a focus on creating sustainable, equitable solutions.
-- Our work is guided by a deep commitment to the communities most affected by healthcare disparities. Through rigorous research, community engagement, and strategic planning, we aim to develop and implement a comprehensive redesign of Chicago's safety net that ensures quality care for all residents, regardless of income or zip code.
-- The initiative operates as a neutral convener, bringing together voices that have historically been siloed. By fostering collaboration across sectors, we're working to build consensus around bold, transformative solutions to our city's most pressing healthcare challenges.
-
-### What We Believe
-- What We Believe
-- Equity First: Healthcare access and outcomes should not be determined by race, income, or zip code.
-- Community Voice: Those most affected by healthcare disparities must have a central role in designing solutions.
-- System Thinking: Sustainable solutions require addressing root causes, not just symptoms of the crisis.
-- Collaborative Action: Breaking down silos between stakeholders is essential for meaningful change.
-- Data-Driven Decisions: Rigorous analysis and evidence should guide our strategies and implementation.
-- Bold Innovation: Transformative change requires reimagining healthcare delivery and financing models.
+- The Safety Net Moonshot Initiative is a multi-sector redesign effort to address the structural collapse of healthcare access for Chicago’s most vulnerable populations.
 
 ### Our Partners
-- Our Partners
-- *Partner logos displayed with permission
+- SNMI is powered by Third Horizon Strategies and supported by Schreiber Philanthropy, with active participation from community health centers, hospital systems, academic medical centers, Medicaid MCOs, and policy experts.
 
-### Get Updates
-- Get Updates
-- Stay informed about our progress and upcoming events
-- Name
-- Email
-- Subscribe
-- We'll never share your contact information. You can unsubscribe at any time.
+### Contact
+- For press, partnerships, or participation inquiries:
+- Email: info@chicagosafetynet.com
+- Phone: 312-555-0425
+
