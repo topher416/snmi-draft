@@ -19,9 +19,9 @@ export default function ToolsResourcesPage() {
                 <CardTitle>SNMI Charter and Timeline</CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="aspect-video relative bg-gray-100 rounded-md mb-4">
+                <div className="aspect-video relative bg-gray-200 rounded-md mb-4">
                   <div className="absolute inset-0 flex items-center justify-center">
-                    <p className="text-gray-500 text-sm">Document Preview</p>
+                    <p className="text-gray-600 text-sm">(SNMI Charter Document Preview)</p>
                   </div>
                 </div>
               </CardContent>
@@ -35,9 +35,9 @@ export default function ToolsResourcesPage() {
                 <CardTitle>Community Engagement Materials</CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="aspect-video relative bg-gray-100 rounded-md mb-4">
+                <div className="aspect-video relative bg-gray-200 rounded-md mb-4">
                   <div className="absolute inset-0 flex items-center justify-center">
-                    <p className="text-gray-500 text-sm">Document Preview</p>
+                    <p className="text-gray-600 text-sm">(Community Engagement Materials Preview)</p>
                   </div>
                 </div>
               </CardContent>
@@ -51,9 +51,9 @@ export default function ToolsResourcesPage() {
                 <CardTitle>FQHC Financial Impact Summary</CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="aspect-video relative bg-gray-100 rounded-md mb-4">
+                <div className="aspect-video relative bg-gray-200 rounded-md mb-4">
                   <div className="absolute inset-0 flex items-center justify-center">
-                    <p className="text-gray-500 text-sm">Document Preview</p>
+                    <p className="text-gray-600 text-sm">(FQHC Financial Impact Summary Preview)</p>
                   </div>
                 </div>
               </CardContent>
@@ -67,9 +67,9 @@ export default function ToolsResourcesPage() {
                 <CardTitle>Hospital Capital Needs Analysis</CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="aspect-video relative bg-gray-100 rounded-md mb-4">
+                <div className="aspect-video relative bg-gray-200 rounded-md mb-4">
                   <div className="absolute inset-0 flex items-center justify-center">
-                    <p className="text-gray-500 text-sm">Document Preview</p>
+                    <p className="text-gray-600 text-sm">(Hospital Capital Needs Analysis Preview)</p>
                   </div>
                 </div>
               </CardContent>
@@ -83,9 +83,9 @@ export default function ToolsResourcesPage() {
                 <CardTitle>Upcoming Briefing Slide Decks</CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="aspect-video relative bg-gray-100 rounded-md mb-4">
+                <div className="aspect-video relative bg-gray-200 rounded-md mb-4">
                   <div className="absolute inset-0 flex items-center justify-center">
-                    <p className="text-gray-500 text-sm">Document Preview</p>
+                    <p className="text-gray-600 text-sm">(Briefing Slide Decks Preview)</p>
                   </div>
                 </div>
               </CardContent>
@@ -107,7 +107,7 @@ export default function ToolsResourcesPage() {
                 <CardContent>
                   <div className="aspect-video relative bg-gray-200 rounded-md mb-4">
                     <div className="absolute inset-0 flex items-center justify-center">
-                      <p className="text-gray-500 text-sm">Tool Preview</p>
+                      <p className="text-gray-600 text-sm">(Scenario Planner Tool Preview)</p>
                     </div>
                   </div>
                   <p className="text-sm text-gray-500">
@@ -129,7 +129,7 @@ export default function ToolsResourcesPage() {
                 <CardContent>
                   <div className="aspect-video relative bg-gray-200 rounded-md mb-4">
                     <div className="absolute inset-0 flex items-center justify-center">
-                      <p className="text-gray-500 text-sm">Restricted Access</p>
+                      <p className="text-gray-600 text-sm">(Stakeholder Mapping Tool Preview)</p>
                     </div>
                   </div>
                   <p className="text-sm text-gray-500">

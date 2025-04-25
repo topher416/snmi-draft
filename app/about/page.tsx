@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from "react"
-import Image from "next/image"
 import { CheckIcon } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
@@ -43,7 +42,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Our Partners</h2>
               <p className="text-gray-700 mb-6">
-                SNMI is powered by Third Horizon and supported by Schreiber Philanthropy, with active
+                SNMI is powered by Third Horizon Strategies and supported by Schreiber Philanthropy, with active
                 participation from community health centers, hospital systems, academic medical centers, Medicaid MCOs,
                 and policy experts.
               </p>
@@ -58,12 +57,9 @@ export default function AboutPage() {
               </p>
             </div>
             <div className="relative rounded-xl overflow-hidden">
-              <Image
-                src="/images/collaboration.jpg"
-                alt="Healthcare professionals collaborating"
-                fill
-                className="object-cover"
-              />
+              <div className="w-full h-full aspect-video bg-gray-300 flex items-center justify-center">
+                <p className="text-gray-700 font-medium">(Healthcare professionals collaborating)</p>
+              </div>
             </div>
           </div>
 
@@ -94,7 +90,7 @@ export default function AboutPage() {
               {/* Partner logos would go here - using placeholder blocks for now */}
               {[1, 2, 3, 4, 5, 6, 7, 8].map((i) => (
                 <div key={i} className="aspect-[3/2] bg-gray-100 rounded-md flex items-center justify-center">
-                  <p className="text-gray-400 text-sm">Partner Logo</p>
+                  <p className="text-gray-400 text-sm">Partner Logo {i}</p>
                 </div>
               ))}
             </div>

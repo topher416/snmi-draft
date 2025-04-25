@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from "react"
-import Image from "next/image"
 
 import { Button } from "@/components/ui/button"
 import {
@@ -57,18 +56,15 @@ export default function PhotoVoicePage() {
           </div>
 
           {/* PhotoVoice Gallery - Masonry Grid */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             {photovoiceData.map((item) => (
               <Dialog key={item.id}>
                 <DialogTrigger asChild>
                   <div className="relative group cursor-pointer overflow-hidden rounded-lg">
                     <div className="aspect-[4/5] relative">
-                      <Image
-                        src={item.image || "/placeholder.svg"}
-                        alt={item.caption}
-                        fill
-                        className="object-cover transition-transform group-hover:scale-105"
-                      />
+                      <div className="absolute inset-0 bg-gray-300 flex items-center justify-center">
+                        <p className="text-gray-700 font-medium">(Photo: {item.caption})</p>
+                      </div>
                       <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex flex-col justify-end p-4">
                         <p className="text-white font-medium">
                           {item.name}, {item.neighborhood}
@@ -87,12 +83,9 @@ export default function PhotoVoicePage() {
                   </DialogHeader>
                   <div className="grid sm:grid-cols-2 gap-4">
                     <div className="relative aspect-square">
-                      <Image
-                        src={item.image || "/placeholder.svg"}
-                        alt={item.caption}
-                        fill
-                        className="object-cover rounded-md"
-                      />
+                      <div className="absolute inset-0 bg-gray-300 flex items-center justify-center rounded-md">
+                        <p className="text-gray-700 font-medium">(Photo: {item.caption})</p>
+                      </div>
                     </div>
                     <div className="flex flex-col justify-between">
                       <p className="text-gray-700">{item.story}</p>

@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from "react"
-import Image from "next/image"
 import { Play, Pause } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
@@ -72,12 +71,9 @@ export default function AdvisoryVoicesPage() {
                 <DialogTrigger asChild>
                   <Card className="overflow-hidden cursor-pointer hover:shadow-md transition-shadow">
                     <div className="relative aspect-video">
-                      <Image
-                        src={video.thumbnail || "/placeholder.svg"}
-                        alt={`Video thumbnail for ${video.name}`}
-                        fill
-                        className="object-cover"
-                      />
+                      <div className="w-full h-full bg-gray-300 flex items-center justify-center">
+                        <p className="text-gray-700 font-medium">(Video thumbnail: {video.name})</p>
+                      </div>
                       <div className="absolute inset-0 flex items-center justify-center">
                         <div className="bg-black/50 rounded-full p-3">
                           <Play className="h-8 w-8 text-white" />
@@ -102,12 +98,9 @@ export default function AdvisoryVoicesPage() {
                     <DialogDescription>{video.organization}</DialogDescription>
                   </DialogHeader>
                   <div className="relative aspect-video bg-gray-900 rounded-md overflow-hidden">
-                    <Image
-                      src={video.thumbnail || "/placeholder.svg"}
-                      alt={`Video of ${video.name}`}
-                      fill
-                      className="object-cover opacity-50"
-                    />
+                    <div className="absolute inset-0 bg-gray-700 flex items-center justify-center">
+                      <p className="text-white font-medium">(Video of {video.name})</p>
+                    </div>
                     <div className="absolute inset-0 flex items-center justify-center">
                       <div className="text-center">
                         <p className="text-white mb-4">Video player will be implemented in the final version</p>

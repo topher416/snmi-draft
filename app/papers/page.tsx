@@ -1,4 +1,3 @@
-import Image from "next/image"
 import { Download } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
@@ -21,12 +20,9 @@ export default function PapersPage() {
             {/* Volume One */}
             <Card className="overflow-hidden">
               <div className="relative h-48 w-full">
-                <Image
-                  src="/images/distressed-hospital.jpg"
-                  alt="Distressed hospital representing the healthcare crisis"
-                  fill
-                  className="object-cover"
-                />
+                <div className="w-full h-full bg-gray-300 flex items-center justify-center">
+                  <p className="text-gray-700 font-medium">(Distressed hospital image)</p>
+                </div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
                   <div className="p-4 text-white">
                     <h3 className="text-xl font-bold">Volume One</h3>
@@ -42,12 +38,9 @@ export default function PapersPage() {
                 </p>
 
                 <div className="relative h-64 w-full mb-6 border rounded-lg overflow-hidden">
-                  <Image
-                    src="/images/timeline-insolvency.jpg"
-                    alt="Timeline to insolvency"
-                    fill
-                    className="object-contain"
-                  />
+                  <div className="absolute inset-0 bg-gray-200 flex items-center justify-center">
+                    <p className="text-gray-700 font-medium">(Timeline to insolvency chart)</p>
+                  </div>
                 </div>
 
                 <div className="flex justify-center">
@@ -62,12 +55,9 @@ export default function PapersPage() {
             {/* Volume Two */}
             <Card className="overflow-hidden">
               <div className="relative h-48 w-full">
-                <Image
-                  src="/images/integrated-health-network.jpg"
-                  alt="Concept art of integrated community health network"
-                  fill
-                  className="object-cover"
-                />
+                <div className="w-full h-full bg-gray-300 flex items-center justify-center">
+                  <p className="text-gray-700 font-medium">(Integrated health network concept)</p>
+                </div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
                   <div className="p-4 text-white">
                     <h3 className="text-xl font-bold">Volume Two</h3>
@@ -83,12 +73,9 @@ export default function PapersPage() {
                 </p>
 
                 <div className="relative h-64 w-full mb-6 border rounded-lg overflow-hidden">
-                  <Image
-                    src="/images/strategic-roadmap.jpg"
-                    alt="Strategic roadmap for healthcare transformation"
-                    fill
-                    className="object-contain"
-                  />
+                  <div className="absolute inset-0 bg-gray-200 flex items-center justify-center">
+                    <p className="text-gray-700 font-medium">(Strategic roadmap diagram)</p>
+                  </div>
                 </div>
 
                 <div className="flex justify-center">
@@ -106,12 +93,9 @@ export default function PapersPage() {
             <h3 className="text-2xl font-bold text-center mb-6">How Our Research Connects</h3>
 
             <div className="relative h-24 md:h-32 w-full mb-8">
-              <Image
-                src="/images/papers-connection.jpg"
-                alt="Infographic showing how the two papers link together"
-                fill
-                className="object-contain"
-              />
+              <div className="absolute inset-0 bg-gray-200 flex items-center justify-center">
+                <p className="text-gray-700 font-medium">(Infographic showing how the two papers link together)</p>
+              </div>
             </div>
 
             <p className="text-center text-gray-700 max-w-3xl mx-auto">

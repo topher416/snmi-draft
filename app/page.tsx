@@ -1,4 +1,3 @@
-import Image from "next/image"
 import Link from "next/link"
 import { ArrowDown } from "lucide-react"
 
@@ -11,7 +10,9 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative flex flex-col items-center justify-center min-h-[90vh] text-white text-center px-4 py-20">
         <div className="absolute inset-0 z-0">
-          <Image src="/images/chicago-skyline.jpg" alt="Chicago skyline" fill className="object-cover" priority />
+          <div className="w-full h-full bg-gray-400 flex items-center justify-center">
+            <p className="text-gray-700 font-medium">(Chicago skyline)</p>
+          </div>
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/80"></div>
         </div>
 
@@ -30,11 +31,11 @@ export default function Home() {
       </section>
 
       {/* Infographic Story */}
-      <section id="infographic" className="py-16 px-4 bg-white">
-        <div className="max-w-6xl mx-auto">
+      <section id="infographic" className="py-12 px-4 bg-white">
+        <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">The Challenge and The Path Forward</h2>
 
-          <div className="grid md:grid-cols-2 gap-8 lg:gap-16">
+          <div className="grid md:grid-cols-2 gap-6 lg:gap-8">
             {/* Left Panel: Crisis Forecast */}
             <div className="bg-red-50 p-6 md:p-8 rounded-xl border border-red-200">
               <h3 className="text-2xl font-bold text-red-800 mb-4">The Challenge: A Collapsing Safety Net</h3>
@@ -47,12 +48,9 @@ export default function Home() {
               </div>
 
               <div className="aspect-square relative mb-6">
-                <Image
-                  src="/images/crisis-graph.jpg"
-                  alt="Graph showing collapse trajectory if inaction persists"
-                  fill
-                  className="object-contain"
-                />
+                <div className="absolute inset-0 bg-gray-300 flex items-center justify-center">
+                  <p className="text-gray-700 font-medium">(Graph showing collapse trajectory)</p>
+                </div>
               </div>
 
               <p className="text-gray-700">
