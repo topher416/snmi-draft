@@ -43,7 +43,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Our Partners</h2>
               <p className="text-gray-700 mb-6">
-                SNMI is powered by Third Horizon Strategies and supported by Schreiber Philanthropy, with active
+                SNMI is powered by Third Horizon and supported by Schreiber Philanthropy, with active
                 participation from community health centers, hospital systems, academic medical centers, Medicaid MCOs,
                 and policy experts.
               </p>
